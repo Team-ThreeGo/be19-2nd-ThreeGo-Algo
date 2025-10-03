@@ -196,8 +196,9 @@ Algo는 **Spring Cloud 기반의 MSA(Microservice Architecture) 1세대 구조**
 
 <details>
   <summary>실제 수행환경</summary>
+  <br>
   <img width="1024" src="https://github.com/user-attachments/assets/300ece42-6618-4b94-9788-595cd3e98028" />
-</detail>
+</details>
 
 ---
 
