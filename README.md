@@ -194,6 +194,11 @@ Algo는 **Spring Cloud 기반의 MSA(Microservice Architecture) 1세대 구조**
 - 데이터는 단일 MariaDB를 공유하여 관리합니다.  
 - 외부 시스템으로는 FastAPI(OpenAI 연동)과 AWS S3를 연결하여, AI 피드백 제공 및 이미지/파일 저장을 지원합니다.  
 
+<details>
+  <summary>실제 수행환경</summary>
+  <img width="1024" src="https://github.com/user-attachments/assets/300ece42-6618-4b94-9788-595cd3e98028" />
+</detail>
+
 ---
 
 ## 5. 세부 기술 소개
